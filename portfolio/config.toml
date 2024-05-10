@@ -1,0 +1,4 @@
+baseURL = 'https://www.wade.dev/'
+languageCode = 'en-us'
+title = 'Nicholas Wade Website'
+theme = "poison"
