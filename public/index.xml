@@ -2,27 +2,27 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Nicholas Wade Website</title>
-    <link>https://nkwade.github.io/</link>
+    <link>https://wade.dev/</link>
     <description>Recent content on Nicholas Wade Website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 10 May 2024 20:28:35 -0400</lastBuildDate><atom:link href="https://nkwade.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 10 May 2024 20:28:35 -0400</lastBuildDate><atom:link href="https://wade.dev/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>AIMM ICC</title>
-      <link>https://nkwade.github.io/projects/aimm/</link>
+      <link>https://wade.dev/projects/aimm/</link>
       <pubDate>Fri, 10 May 2024 20:28:35 -0400</pubDate>
       
-      <guid>https://nkwade.github.io/projects/aimm/</guid>
+      <guid>https://wade.dev/projects/aimm/</guid>
       <description>Artificial Intelligence Maritime Manuever Intercollegiate Challenge
 Jan 2024 - Current</description>
     </item>
     
     <item>
       <title>About Me</title>
-      <link>https://nkwade.github.io/about/about/</link>
+      <link>https://wade.dev/about/about/</link>
       <pubDate>Fri, 10 May 2024 20:06:18 -0400</pubDate>
       
-      <guid>https://nkwade.github.io/about/about/</guid>
+      <guid>https://wade.dev/about/about/</guid>
       <description>Senior @ Purdue University  Major: Computer Science w/ Concentration In Machine Intelligence Minor: Entrepreneurship &amp;amp; Innovation Labs: AI Maritime Manuever Challenge Clubs: Machine Learning @ Purdue, Previously Sigbots Papers: Pac-Man Pete  Career Data Analyst @ BDO Digital June 2023 - Current
 Helping clients integrate artificial intelligence into their business
 Project Categories Include:
