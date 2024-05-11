@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Nicholas Wade Website</title>
+    <link>https://wade.dev/projects/</link>
+    <description>Recent content in Projects on Nicholas Wade Website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 10 May 2024 20:28:35 -0400</lastBuildDate><atom:link href="https://wade.dev/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AIMM ICC</title>
+      <link>https://wade.dev/projects/aimm/</link>
+      <pubDate>Fri, 10 May 2024 20:28:35 -0400</pubDate>
+      
+      <guid>https://wade.dev/projects/aimm/</guid>
+      <description>Artificial Intelligence Maritime Manuever Intercollegiate Challenge
+Jan 2024 - Current</description>
+    </item>
+    
+  </channel>
+</rss>
