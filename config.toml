@@ -1,4 +1,4 @@
-baseURL = 'https://nkwade.github.io/'
+baseURL = 'https://wade.dev/'
 languageCode = 'en-us'
 title = 'Nicholas Wade Website'
 theme = "poison"
