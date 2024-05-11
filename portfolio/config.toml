@@ -1,4 +1,23 @@
-baseURL = 'https://www.wade.dev/'
+baseURL = '/'
 languageCode = 'en-us'
 title = 'Nicholas Wade Website'
 theme = "poison"
+paginate=10
+pluralizelisttitles = false
+
+[params]
+  brand="Nicholas Wade"
+  description="My Personal Website"
+  dark_mode=true
+  menu = [
+    {Name = "About Me", URL = "/about/", HasChildren = false},
+    {Name = " Projects", URL = "/projects/", HasChildren = true, Pre = "Recent", Limit = 10}
+  ]
+
+  # Links to your socials.  Comment or delete any you don't need/use. 
+    #discord_url = "https://discord.com"
+    email_url = "mailto://nicholas@wade.dev"
+    github_url = "https://github.com/nkwade"
+    linkedin_url = "https://linkedin.com/in/nkwade/"
+    #twitter_url = "https://twitter.com/nkwade"
+    youtube_url = "https://youtube.com/@nkwade"
