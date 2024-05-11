@@ -1,4 +1,4 @@
-baseURL = '/'
+baseURL = 'https://wade.dev/'
 languageCode = 'en-us'
 title = 'Nicholas Wade Website'
 theme = "poison"
