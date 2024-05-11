@@ -6,7 +6,7 @@ draft: false
 ## Senior @ Purdue University  
   - Major: Computer Science w/ Concentration In Machine Intelligence  
   - Minor: [Entrepreneurship & Innovation](https://www.purdue.edu/entr/)  
-  - Labs: [AI Maritime Manuever Challenge](https://www.wade.dev/projects/aimm)  
+  - Labs: [AI Maritime Manuever Challenge](https://wade.dev/projects/aimm)  
   - Clubs: [Machine Learning @ Purdue](https://ml-purdue.github.io/), Previously [Sigbots](https://purduesigbots.com/)  
   - Papers: [Pac-Man Pete](https://arxiv.org/pdf/2211.14385) 
 

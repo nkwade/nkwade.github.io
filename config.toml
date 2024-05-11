@@ -11,7 +11,8 @@ pluralizelisttitles = false
   dark_mode=true
   menu = [
     {Name = "About Me", URL = "/about/", HasChildren = false},
-    {Name = " Projects", URL = "/projects/", HasChildren = true, Pre = "Recent", Limit = 10}
+    {Name = "Projects", URL = "/projects/", HasChildren = true, Pre = "Recent", Limit = 10},
+    {Name = "Reading List", URL = "https://nkwade.notion.site/Reading-List-0bb176adccd34b1c880de7e2516b8014", HasChildren = false}
   ]
 
   # Links to your socials.  Comment or delete any you don't need/use. 
@@ -21,3 +22,4 @@ pluralizelisttitles = false
     linkedin_url = "https://linkedin.com/in/nkwade/"
     #twitter_url = "https://twitter.com/nkwade"
     youtube_url = "https://youtube.com/@nkwade"
+    medium_url = "medium.wade.dev"
