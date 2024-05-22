@@ -27,7 +27,6 @@ Project Categories Include:
 
 ## Courses
 Courses that I have taken, both in and out of school that are related to computer science
-
 - [ROS2 Developer Course (ongoing)](https://www.udemy.com/course/ros2-robotics-developer-course-using-ros2-in-python/)
 - [Microsoft AI-102T: Designing and Implementing a Microsoft Azure AI Solution (working towards certification)](https://learn.microsoft.com/en-us/training/courses/ai-102t00)
 - [Data Analysis With Pandas & Python](https://www.udemy.com/course/data-analysis-with-pandas)
