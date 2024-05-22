@@ -32,5 +32,4 @@ Courses that I have taken, both in and out of school that are related to compute
 - [Microsoft AI-102T: Designing and Implementing a Microsoft Azure AI Solution (working towards certification)](https://learn.microsoft.com/en-us/training/courses/ai-102t00)
 - [Data Analysis With Pandas & Python](https://www.udemy.com/course/data-analysis-with-pandas)
 - [SQL Zero-To-Hero](https://www.udemy.com/course/2022-complete-sql-bootcamp-from-zero-to-hero-in-sql)
-- Purdue CS Courses: 
-    Object-Oriented Programming, Foundations of CS, Programming in C, Computer Architecture, Data Structures & Algorithms, Systems Programming, Intro to AI, Data Mining & Machine Learning. Planned For Senior Year: Analysis Of Algorithms, Web Information Search & Management, Intro to Robotics
+- Purdue CS Courses: Object-Oriented Programming, Foundations of CS, Programming in C, Computer Architecture, Data Structures & Algorithms, Systems Programming, Intro to AI, Data Mining & Machine Learning. Planned For Senior Year: Analysis Of Algorithms, Web Information Search & Management, Intro to Robotics
