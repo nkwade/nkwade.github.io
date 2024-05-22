@@ -24,6 +24,7 @@ Project Categories Include:
 ## Projects
 - [Celerity: Solana Blockchain Trading Bot](https://wade.dev/projects/celerity)
 - [Artificial Intelligence Maritime Manuever Inter-collegiate Challenge (AIMM ICC)](https://wade.dev/projects/aimm/)
+- [VEX-AI](https://wade.dev/projects/vexai/)
 
 ## Courses
 - [ROS2 Developer Course (ongoing)](https://www.udemy.com/course/ros2-robotics-developer-course-using-ros2-in-python/)

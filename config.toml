@@ -10,9 +10,11 @@ pluralizelisttitles = false
   description="My Personal Website"
   dark_mode=true
   menu = [
-    {Name = "About Me", URL = "/about/", HasChildren = false},
-    {Name = "Projects", URL = "/projects/", HasChildren = true, Pre = "Recent", Limit = 10},
-    {Name = "Reading List", URL = "https://nkwade.notion.site/Reading-List-0bb176adccd34b1c880de7e2516b8014", HasChildren = false}
+    {Name = "About Me", URL = "/about/"},
+    {Name = "Projects", URL = "/projects/", HasChildren = true, Limit=3},
+    {Name = "Lists", URL = "", HasChildren = true, Limit = 2},
+    {Name = "Reading List", URL = "https://nkwade.notion.site/Reading-List-0bb176adccd34b1c880de7e2516b8014/", External = true},
+    {Name = "Medium Page", URL = "https://medium.wade.dev", External = true},
   ]
 
   # Links to your socials.  Comment or delete any you don't need/use. 
