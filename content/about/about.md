@@ -6,7 +6,7 @@ draft: false
 ## Senior @ Purdue University  
   - Major: Computer Science w/ Concentration In Machine Intelligence  
   - Minor: [Entrepreneurship & Innovation](https://www.purdue.edu/entr/)  
-  - Labs: [AI Maritime Manuever Challenge](https://wade.dev/projects/aimm)  
+  - Labs: [AI Maritime Manuever Challenge]({{< ref "/projects/aimm" >}}) 
   - Clubs: [Machine Learning @ Purdue](https://ml-purdue.github.io/), Previously [Sigbots](https://purduesigbots.com/)  
   - Papers: [Pac-Man Pete](https://arxiv.org/pdf/2211.14385), [Purdue AIMM ICC Technical Report](https://docs.google.com/document/d/e/2PACX-1vTYsToDpUohFNKVdY4i7hteEkqEoGSFKjM2ApVTrtP4zEd6Y9sWk9BbXpVzlFmIGOf4SvqyG4mYLFIM/pub)
 
@@ -22,9 +22,9 @@ Project Categories Include:
 - Data warehousing & integration
 
 ## Projects
-- [Celerity: Solana Blockchain Trading Bot](https://wade.dev/projects/celerity)
-- [Artificial Intelligence Maritime Manuever Inter-collegiate Challenge (AIMM ICC)](https://wade.dev/projects/aimm/)
-- [VEX-AI](https://wade.dev/projects/vexai/)
+- [Celerity: Solana Blockchain Trading Bot]({{< ref "/projects/celerity" >}}) 
+- [Artificial Intelligence Maritime Manuever Inter-collegiate Challenge (AIMM ICC)]({{< ref "/projects/aimm" >}}) 
+- [VEX-AI]({{< ref "/projects/vexai" >}}) 
 
 ## Courses
 - [ROS2 Developer Course (ongoing)](https://www.udemy.com/course/ros2-robotics-developer-course-using-ros2-in-python/)
