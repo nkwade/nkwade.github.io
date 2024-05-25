@@ -3,7 +3,6 @@ title: "Friends"
 date: 2024-05-23T13:32:01-04:00
 draft: false
 ---
-
 After a year-end trip with a bunch of my closest friends from Purdue, we all decided to link to eachothers sites to put our network out on the web.
 
 - [Jacob Zietek](https://www.zietek.dev/): Human-Robot Interaction, Machine Learning, and the person I have to thank for my interest in ML & introducing me to this network of now close friends
@@ -17,3 +16,4 @@ After a year-end trip with a bunch of my closest friends from Purdue, we all dec
 
 
 All links work as of May 2024
+<!--more-->

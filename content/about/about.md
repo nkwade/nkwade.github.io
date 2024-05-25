@@ -4,11 +4,18 @@ date: 2024-05-24T20:06:18-04:00
 draft: false
 ---
 ## Senior @ Purdue University  
+
   - Major: Computer Science w/ Concentration In Machine Intelligence  
+
   - Minor: [Entrepreneurship & Innovation](https://www.purdue.edu/entr/)  
+  
   - Labs: [AI Maritime Manuever Challenge]({{< ref "/projects/aimm" >}}) 
+
   - Clubs: [Machine Learning @ Purdue](https://ml-purdue.github.io/), Previously [Sigbots](https://purduesigbots.com/)  
-  - Papers: [Pac-Man Pete](https://arxiv.org/pdf/2211.14385), [Purdue AIMM ICC Technical Report](https://docs.google.com/document/d/e/2PACX-1vTYsToDpUohFNKVdY4i7hteEkqEoGSFKjM2ApVTrtP4zEd6Y9sWk9BbXpVzlFmIGOf4SvqyG4mYLFIM/pub)
+
+  - Papers: [Pac-Man Pete](https://arxiv.org/pdf/2211.14385), [Purdue AIMM ICC Technical Report](https://docs.google.com/document/d/e2PACX-1vTYsToDpUohFNKVdY4i7hteEkqEoGSFKjM2ApVTrtP4zEd6Y9sWk9BbXpVzlFmIGOf4SvqyG4mYLFIM/pub)
+
+<!--more-->
 
 ## Career  
 ### Data Analyst @ BDO Digital  
