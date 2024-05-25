@@ -3,8 +3,9 @@ title: "Vex AI"
 date: 2024-05-10T20:28:35-04:00
 draft: false
 ---
-# Overview
 VEX Robotics is a yearly world-wide competition on levels ranging from middle school to college. VEX introduced an AI competition in 2021, so I joined Purdue's newely formed VEXAI team as a member of the reinforcement learning subteam. The competition never happened due to supply chain issues, nonetheless our team was able to build an autonomous robot that could navigate through the playing field and pick up rings (the games objective). You can see our technical report at [Pac-Man Pete An extensible framework for building AI in VEX Robotics](https://arxiv.org/pdf/2211.14385).
+
+<!--more-->
 
 # Role
 2021-2022: Member - Reinforcement Sub-team

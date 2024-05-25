@@ -6,7 +6,16 @@
     <description>Recent content on Nicholas Wade Website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 24 May 2024 20:06:18 -0400</lastBuildDate><atom:link href="https://wade.dev/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 24 May 2024 20:28:35 -0400</lastBuildDate><atom:link href="https://wade.dev/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Celerity</title>
+      <link>https://wade.dev/projects/celerity/</link>
+      <pubDate>Fri, 24 May 2024 20:28:35 -0400</pubDate>
+      
+      <guid>https://wade.dev/projects/celerity/</guid>
+      <description>&lt;p&gt;This project by far has been the most time consuming, most lines of code, and most educational project I have undertaken as a software engineer. I wouldn&amp;rsquo;t consider myself a &amp;ldquo;Crypto Bro&amp;rdquo;, but I do love the ethos underlying crypto: decentralized and fair finance for all. Because of this I had met some cool people working in crypto and one of them reached out to me because he knew I was a software engineer. He had an idea of building a better trading platform on top of decentralized exchanges (DEXs) than the rest of the competition. He is an experienced trader and knew what people liked, disliked, and wanted from their decentralized trading platform. With this in mind we have been building &lt;a href=&#34;https://www.celerity.bot&#34; target=&#34;_blank&#34;&gt;Celerity: Solana Trading Platform&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    
     <item>
       <title>About Me</title>
       <link>https://wade.dev/about/about/</link>
@@ -59,16 +68,7 @@
       <pubDate>Fri, 10 May 2024 20:28:35 -0400</pubDate>
       
       <guid>https://wade.dev/projects/aimm/</guid>
-      <description>Overview You can see Trine Universities overview of the project here: Artificial Intelligence Maritime Manuever Intercollegiate Challenge. This project, as the name states, is a competition between Purdue Main Campus, Purdue Fort Wayne, Indiana University, Trine University, Rose-Hulman Institute of Technology, and Notre Dame. Every team got a completely hollowed out 12ft wooden boat along with a grant to transform the boat into an autonomous agent that could navigate an obstacle course.</description>
-    </item>
-    
-    <item>
-      <title>Celerity</title>
-      <link>https://wade.dev/projects/celerity/</link>
-      <pubDate>Fri, 10 May 2024 20:28:35 -0400</pubDate>
-      
-      <guid>https://wade.dev/projects/celerity/</guid>
-      <description>TODO </description>
+      <description>&lt;p&gt;You can see Trine Universities overview of the project here: &lt;a href=&#34;https://www.trine.edu/innovation-one/aimm/index.aspx&#34; target=&#34;_blank&#34;&gt;Artificial Intelligence Maritime Manuever Intercollegiate Challenge&lt;/a&gt;. This project, as the name states, is a competition between Purdue Main Campus, Purdue Fort Wayne, Indiana University, Trine University, Rose-Hulman Institute of Technology, and Notre Dame. Every team got a completely hollowed out 12ft wooden boat along with a grant to transform the boat into an autonomous agent that could navigate an obstacle course. This was a (relatively) large project with around 15 active undergrads, 2 graduate students, and 2 professors on the team. The team was divided into 3 teams: computer vision, mechanical/electrical, and navigation. Computer vision team, which I led, was responsible for creating a system to detect buoys, rings, and a floating baby doll that was a part of the obstacle course. The mechanical electrical team was responsible for the physical mountings on the boat and making sure all systems had power to run. Lastly, the navigation team was responsible for navigating based off the computer vision detections (which had distance), GPS, and as a last resort remote control.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -77,7 +77,7 @@
       <pubDate>Fri, 10 May 2024 20:28:35 -0400</pubDate>
       
       <guid>https://wade.dev/projects/vexai/</guid>
-      <description>Overview VEX Robotics is a yearly world-wide competition on levels ranging from middle school to college. VEX introduced an AI competition in 2021, so I joined Purdue&amp;rsquo;s newely formed VEXAI team as a member of the reinforcement learning subteam. The competition never happened due to supply chain issues, nonetheless our team was able to build an autonomous robot that could navigate through the playing field and pick up rings (the games objective).</description>
+      <description>&lt;p&gt;VEX Robotics is a yearly world-wide competition on levels ranging from middle school to college. VEX introduced an AI competition in 2021, so I joined Purdue&amp;rsquo;s newely formed VEXAI team as a member of the reinforcement learning subteam. The competition never happened due to supply chain issues, nonetheless our team was able to build an autonomous robot that could navigate through the playing field and pick up rings (the games objective). You can see our technical report at &lt;a href=&#34;https://arxiv.org/pdf/2211.14385&#34; target=&#34;_blank&#34;&gt;Pac-Man Pete An extensible framework for building AI in VEX Robotics&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
     
     <item>
