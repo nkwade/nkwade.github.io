@@ -24,7 +24,7 @@ Project Categories Include:
 ## Projects
 - [Celerity: Solana Blockchain Trading Bot]({{< ref "/projects/celerity" >}}) 
 - [Artificial Intelligence Maritime Manuever Inter-collegiate Challenge (AIMM ICC)]({{< ref "/projects/aimm" >}}) 
-- [VEX-AI]({{< ref "/projects/vexai" >}}) 
+- [VEX-AI: Creating an extensible framework for building AI in VEX Robotics]({{< ref "/projects/vexai" >}}) 
 
 ## Courses
 - [ROS2 Developer Course (ongoing)](https://www.udemy.com/course/ros2-robotics-developer-course-using-ros2-in-python/)
