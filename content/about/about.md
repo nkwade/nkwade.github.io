@@ -1,6 +1,6 @@
 ---
 title: "About Me"
-date: 2024-05-10T20:06:18-04:00
+date: 2024-05-24T20:06:18-04:00
 draft: false
 ---
 ## Senior @ Purdue University  

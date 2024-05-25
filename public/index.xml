@@ -6,7 +6,28 @@
     <description>Recent content on Nicholas Wade Website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 10 May 2024 20:28:35 -0400</lastBuildDate><atom:link href="https://wade.dev/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 24 May 2024 20:06:18 -0400</lastBuildDate><atom:link href="https://wade.dev/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About Me</title>
+      <link>https://wade.dev/about/about/</link>
+      <pubDate>Fri, 24 May 2024 20:06:18 -0400</pubDate>
+      
+      <guid>https://wade.dev/about/about/</guid>
+      <description>Senior @ Purdue University  Major: Computer Science w/ Concentration In Machine Intelligence Minor: Entrepreneurship &amp;amp; Innovation Labs: AI Maritime Manuever Challenge Clubs: Machine Learning @ Purdue, Previously Sigbots Papers: Pac-Man Pete, Purdue AIMM ICC Technical Report  Career Data Analyst @ BDO Digital June 2023 - Current
+Helping clients integrate artificial intelligence into their business. Project Categories Include:
+ Computer Vision Large Language Models Robotics Manufacturing Automation Data warehousing &amp;amp; integration  Projects  Celerity: Solana Blockchain Trading Bot Artificial Intelligence Maritime Manuever Inter-collegiate Challenge (AIMM ICC) VEX-AI: Creating an extensible framework for building AI in VEX Robotics  Courses  ROS2 Developer Course (ongoing) Microsoft AI-102T: Designing and Implementing a Microsoft Azure AI Solution (working towards certification) Data Analysis With Pandas &amp;amp; Python SQL Zero-To-Hero Purdue CS Courses:  Object-Oriented Programming Foundations of CS Programming in C Computer Architecture Data Structures &amp;amp; Algorithms Systems Programming Intro to AI Data Mining &amp;amp; Learning Planned For Senior Year:  Analysis Of Algorithms Web Information Search &amp;amp; Management Intro to Robotics      </description>
+    </item>
+    
+    <item>
+      <title>Friends</title>
+      <link>https://wade.dev/about/friends/</link>
+      <pubDate>Thu, 23 May 2024 13:32:01 -0400</pubDate>
+      
+      <guid>https://wade.dev/about/friends/</guid>
+      <description>After a year-end trip with a bunch of my closest friends from Purdue, we all decided to link to eachothers sites to put our network out on the web.
+ Jacob Zietek: Human-Robot Interaction, Machine Learning, and the person I have to thank for my interest in ML &amp;amp; introducing me to this network of now close friends Cole Roberts: OS/Embedded Dev, Stoic master, Fitness/Health Hobbyist Jinen Setpal: ML/AI Interpretability Researcher, Everyones Hypeman, Productivity Master Sagar Patil: Rockets, AI, Human Knowledge-Base Mikail Khan: Programming Languages Researcher Aref Malek: Software Engineer Harmya Bhatt: Software Engineer Bhavesh: Software Engineer, Web Dev  All links work as of May 2024</description>
+    </item>
+    
     <item>
       <title>AIMM ICC</title>
       <link>https://wade.dev/projects/aimm/</link>
@@ -32,17 +53,6 @@
       
       <guid>https://wade.dev/projects/vexai/</guid>
       <description>Overview VEX Robotics is a yearly world-wide competition on levels ranging from middle school to college. VEX introduced an AI competition in 2021, so I joined Purdue&amp;rsquo;s newely formed VEXAI team as a member of the reinforcement learning subteam. The competition never happened due to supply chain issues, nonetheless our team was able to build an autonomous robot that could navigate through the playing field and pick up rings (the games objective).</description>
-    </item>
-    
-    <item>
-      <title>About Me</title>
-      <link>https://wade.dev/about/about/</link>
-      <pubDate>Fri, 10 May 2024 20:06:18 -0400</pubDate>
-      
-      <guid>https://wade.dev/about/about/</guid>
-      <description>Senior @ Purdue University  Major: Computer Science w/ Concentration In Machine Intelligence Minor: Entrepreneurship &amp;amp; Innovation Labs: AI Maritime Manuever Challenge Clubs: Machine Learning @ Purdue, Previously Sigbots Papers: Pac-Man Pete, Purdue AIMM ICC Technical Report  Career Data Analyst @ BDO Digital June 2023 - Current
-Helping clients integrate artificial intelligence into their business. Project Categories Include:
- Computer Vision Large Language Models Robotics Manufacturing Automation Data warehousing &amp;amp; integration  Projects  Celerity: Solana Blockchain Trading Bot Artificial Intelligence Maritime Manuever Inter-collegiate Challenge (AIMM ICC) VEX-AI: Creating an extensible framework for building AI in VEX Robotics  Courses  ROS2 Developer Course (ongoing) Microsoft AI-102T: Designing and Implementing a Microsoft Azure AI Solution (working towards certification) Data Analysis With Pandas &amp;amp; Python SQL Zero-To-Hero Purdue CS Courses:  Object-Oriented Programming Foundations of CS Programming in C Computer Architecture Data Structures &amp;amp; Algorithms Systems Programming Intro to AI Data Mining &amp;amp; Learning Planned For Senior Year:  Analysis Of Algorithms Web Information Search &amp;amp; Management Intro to Robotics      </description>
     </item>
     
     <item>
