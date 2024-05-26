@@ -2,10 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://wade.dev/projects/celerity/</loc>
-    <lastmod>2024-05-24T20:28:35-04:00</lastmod>
+    <loc>https://wade.dev/photography/newhampshire/</loc>
+    <lastmod>2024-05-26T14:34:47-04:00</lastmod>
   </url><url>
     <loc>https://wade.dev/</loc>
+    <lastmod>2024-05-26T14:34:47-04:00</lastmod>
+  </url><url>
+    <loc>https://wade.dev/photography/</loc>
+    <lastmod>2024-05-26T14:34:47-04:00</lastmod>
+  </url><url>
+    <loc>https://wade.dev/photography/galapagos/</loc>
+    <lastmod>2024-05-26T13:45:25-04:00</lastmod>
+  </url><url>
+    <loc>https://wade.dev/photography/random/</loc>
+    <lastmod>2024-05-26T13:45:25-04:00</lastmod>
+  </url><url>
+    <loc>https://wade.dev/projects/celerity/</loc>
     <lastmod>2024-05-24T20:28:35-04:00</lastmod>
   </url><url>
     <loc>https://wade.dev/projects/</loc>

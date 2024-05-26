@@ -7,12 +7,14 @@ VEX Robotics is a yearly world-wide competition on levels ranging from middle sc
 
 <!--more-->
 
-# Role
+## Role
+
 2021-2022: Member - Reinforcement Sub-team
 
 2022-2023: Project Lead
 
-# Tech Stack
+## Tech Stack
+
 - Reinforcement Learning
     - Unity 3D Game Engine
     - Unity Machine Learnings Agents Package
@@ -28,8 +30,10 @@ VEX Robotics is a yearly world-wide competition on levels ranging from middle sc
     - PROS (PROS Robotic Operating System)
     - C/C++
 
-# Pipeline
-![VEXAI Pipeline](../../resources/_gen/images/vex_pipeline.png)
+## Pipeline
 
-# Results
+![VEXAI Pipeline](static/vex_pipeline.png "image pipeline")
+
+## Results
+
 This was my first project I got on at Purdue and helped me meet a bunch of great people in the machine learning space as well as force me into building a project with machine learning instead of tutorials or classes like I was used to. If you noticed my sophomore year I became the head of the VEXAI team where we built out another computer vision system for the robot. After my sophomore year I left the project just to expand my range of projects and go into another venture. Producing a technical report, leading a project, and incorporting a wide stack with multiple subteams taught me a lot and set me up for my next project [AI Maritime Manuever Challenge]({{< ref "/projects/aimm" >}}).

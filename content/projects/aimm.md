@@ -7,10 +7,10 @@ You can see Trine Universities overview of the project here: [Artificial Intelli
 
 <!--more-->
 
-# Role
+## Role
 2023-2024: Computer Vision Team Lead
 
-# Tech Stack
+## Tech Stack
 - Computer Vision
     - Python
     - Yolov8
@@ -19,13 +19,13 @@ You can see Trine Universities overview of the project here: [Artificial Intelli
     - Docker
     - CUDA 
 
-# Pipeline
-![CV Pipeline](../../resources/_gen/images/aimm_cv_pipeline.png)
+## Pipeline
+![CV Pipeline](aimm_cv_pipeline.png)
 
-# Results 
+## Results 
 We published a technical report about our process as part of the judging for the AIMM competition. You can view the document [here](https://docs.google.com/document/d/e/2PACX-1vTYsToDpUohFNKVdY4i7hteEkqEoGSFKjM2ApVTrtP4zEd6Y9sWk9BbXpVzlFmIGOf4SvqyG4mYLFIM/pub). Due to Purdue getting a late start on the competiton (and extremely bad weather) we weren't able to score as well as we wanted in the competition. Despite this, we were able to get a fully remote controlled boat and a working computer vision system that was able to detect buoys, and based off their distance from the camera, calculate their GPS coordinates for our navigation system to use. We also placed 3rd in the presentation section of the competition which was based off our report and on-site presentation given to the judges. 
 
-# Future
+## Future
 This was just the first year of the competition and we didn't really start until February for a competition that took place in April. This coming year we have almost half our team back and get to start in August for the competition. We have learned quite a bit and I am actually working with [Dr. Newell](https://www.purdue.edu/aatl/people/dr-brittany-newell/), one of the professors on the project, over the summer working on setting up the project for the coming year and doing research in the realm of reinforcement learning on the autonomous boat. As this project progresses, more updates will be added here. 
 
 

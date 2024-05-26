@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Photography on Nicholas Wade Website</title>
+    <link>https://wade.dev/photography/</link>
+    <description>Recent content in Photography on Nicholas Wade Website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 26 May 2024 14:34:47 -0400</lastBuildDate><atom:link href="https://wade.dev/photography/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>New Hampshire</title>
+      <link>https://wade.dev/photography/newhampshire/</link>
+      <pubDate>Sun, 26 May 2024 14:34:47 -0400</pubDate>
+      
+      <guid>https://wade.dev/photography/newhampshire/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Galapagos</title>
+      <link>https://wade.dev/photography/galapagos/</link>
+      <pubDate>Sun, 26 May 2024 13:45:25 -0400</pubDate>
+      
+      <guid>https://wade.dev/photography/galapagos/</guid>
+      <description>Photos from my trip to the Galapagos in Apr 2019.</description>
+    </item>
+    
+    <item>
+      <title>Random</title>
+      <link>https://wade.dev/photography/random/</link>
+      <pubDate>Sun, 26 May 2024 13:45:25 -0400</pubDate>
+      
+      <guid>https://wade.dev/photography/random/</guid>
+      <description>Here are some photos I&amp;rsquo;ve taken that I enjoy.</description>
+    </item>
+    
+  </channel>
+</rss>
