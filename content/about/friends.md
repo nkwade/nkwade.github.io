@@ -15,5 +15,5 @@ After a year-end trip with a bunch of my closest friends from Purdue, we all dec
 - [Bhavesh](https://bhavesh.dev/): Software Engineer, Web Dev
 
 
-All links work as of May 2024
+All links work as of August 2024
 <!--more-->

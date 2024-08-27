@@ -12,11 +12,12 @@ pluralizelisttitles = false
   front_page_content = ["about"]
   menu = [
     {Name = "About Me", URL = "/about/", HasChildren = true, Limit=2},
+    {Name = "Resume", URL = "/documents/Nicholas Wade Resume.pdf", External = true},
     {Name = "Projects", URL = "/projects/", HasChildren = true, Limit=3},
     {Name = "Photography", URL = "/photography/", HasChildren = true, Limit=3},
-    {Name = "Lists", URL = "", HasChildren = true, Limit = 2},
+    {Name = "Misc", URL = "", HasChildren = true, Limit = 2},
     #{Name = "Reading List", URL = "https://nkwade.notion.site/Reading-List-0bb176adccd34b1c880de7e2516b8014/", External = true},
-    {Name = "Medium Page", URL = "https://medium.wade.dev", External = true},
+    {Name = "Medium Page", URL = "https://medium.com/@nkwade", External = true},
   ]
 
   # Links to your socials.  Comment or delete any you don't need/use. 
