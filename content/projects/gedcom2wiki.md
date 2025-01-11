@@ -8,7 +8,7 @@ draft: false
 
 [Github Repo](https://github.com/nkwade/gedcom2wiki)
 
-[Example Output Of The Royal Family](https://wade.dev/royaltreewiki/index.html)
+[Example Output Of The Royal Family](/royaltreewiki/index.html)
 
 ## Quick Stats
 - Initial Public Release: January 2025
