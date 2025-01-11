@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>About on Nicholas Wade Website</title>
-    <link>http://localhost:1313/about/</link>
+    <link>https://wade.dev/about/</link>
     <description>Recent content in About on Nicholas Wade Website</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 24 May 2024 20:06:18 -0400</lastBuildDate>
-    <atom:link href="http://localhost:1313/about/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://wade.dev/about/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About Me</title>
-      <link>http://localhost:1313/about/about/</link>
+      <link>https://wade.dev/about/about/</link>
       <pubDate>Fri, 24 May 2024 20:06:18 -0400</pubDate>
-      <guid>http://localhost:1313/about/about/</guid>
-      <description>&lt;h2 id=&#34;senior--purdue-university&#34;&gt;Senior @ Purdue University&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Major: Computer Science w/ Concentration In Machine Intelligence&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Minor: &lt;a href=&#34;https://www.purdue.edu/entr/&#34; target=&#34;_blank&#34;&gt;Entrepreneurship &amp;amp; Innovation&lt;/a&gt;&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Labs: &lt;a href=&#34;http://localhost:1313/projects/aimm/&#34;&gt;AI Maritime Manuever Challenge&lt;/a&gt;&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Clubs: &lt;a href=&#34;https://ml-purdue.github.io/&#34; target=&#34;_blank&#34;&gt;Machine Learning @ Purdue&lt;/a&gt;, Previously &lt;a href=&#34;https://purduesigbots.com/&#34; target=&#34;_blank&#34;&gt;Sigbots&lt;/a&gt;&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Papers: &lt;a href=&#34;https://arxiv.org/pdf/2211.14385&#34; target=&#34;_blank&#34;&gt;Pac-Man Pete&lt;/a&gt;, &lt;a href=&#34;https://docs.google.com/document/d/e2PACX-1vTYsToDpUohFNKVdY4i7hteEkqEoGSFKjM2ApVTrtP4zEd6Y9sWk9BbXpVzlFmIGOf4SvqyG4mYLFIM/pub&#34; target=&#34;_blank&#34;&gt;Purdue AIMM ICC Technical Report&lt;/a&gt;&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+      <guid>https://wade.dev/about/about/</guid>
+      <description>&lt;h2 id=&#34;senior--purdue-university&#34;&gt;Senior @ Purdue University&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Major: Computer Science w/ Concentration In Machine Intelligence&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Minor: &lt;a href=&#34;https://www.purdue.edu/entr/&#34; target=&#34;_blank&#34;&gt;Entrepreneurship &amp;amp; Innovation&lt;/a&gt;&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Labs: &lt;a href=&#34;https://wade.dev/projects/aimm/&#34;&gt;AI Maritime Manuever Challenge&lt;/a&gt;&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Clubs: &lt;a href=&#34;https://ml-purdue.github.io/&#34; target=&#34;_blank&#34;&gt;Machine Learning @ Purdue&lt;/a&gt;, Previously &lt;a href=&#34;https://purduesigbots.com/&#34; target=&#34;_blank&#34;&gt;Sigbots&lt;/a&gt;&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Papers: &lt;a href=&#34;https://arxiv.org/pdf/2211.14385&#34; target=&#34;_blank&#34;&gt;Pac-Man Pete&lt;/a&gt;, &lt;a href=&#34;https://docs.google.com/document/d/e2PACX-1vTYsToDpUohFNKVdY4i7hteEkqEoGSFKjM2ApVTrtP4zEd6Y9sWk9BbXpVzlFmIGOf4SvqyG4mYLFIM/pub&#34; target=&#34;_blank&#34;&gt;Purdue AIMM ICC Technical Report&lt;/a&gt;&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>Friends</title>
-      <link>http://localhost:1313/about/friends/</link>
+      <link>https://wade.dev/about/friends/</link>
       <pubDate>Thu, 23 May 2024 13:32:01 -0400</pubDate>
-      <guid>http://localhost:1313/about/friends/</guid>
+      <guid>https://wade.dev/about/friends/</guid>
       <description>&lt;p&gt;After a year-end trip with a bunch of my closest friends from Purdue, we all decided to link to each others sites to put our network out on the web.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://www.zietek.dev/&#34; target=&#34;_blank&#34;&gt;Jacob Zietek&lt;/a&gt;: Founder @ PersonaAI Inc., Embodied AI, Human-Robot Interaction, Machine Learning, and the person I have to thank for my interest in ML &amp;amp; introducing me to this network of now close friends&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://coleroberts.dev/index&#34; target=&#34;_blank&#34;&gt;Cole Roberts&lt;/a&gt;: Embedded Dev @ Garmin, OS/Embedded Dev, Stoic master, Fitness/Health Hobbyist&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://jinen.setpal.net/&#34; target=&#34;_blank&#34;&gt;Jinen Setpal&lt;/a&gt;: PhD @ Purdue University, ML/AI Interpretability Researcher, Everyones Hypeman, Productivity Master&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://sagarpatil.me/&#34; target=&#34;_blank&#34;&gt;Sagar Patil&lt;/a&gt;:  Incoming Software Engineer @ SpaceX, Rockets, AI, Human Knowledge-Base&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://mikail-khan.com/&#34; target=&#34;_blank&#34;&gt;Mikail Khan&lt;/a&gt;: PhD @ CMU, Programming Languages Researcher&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://arefmalek.com/&#34; target=&#34;_blank&#34;&gt;Aref Malek&lt;/a&gt;: Software Engineer @ SpaceX&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://harmya.me/&#34; target=&#34;_blank&#34;&gt;Harmya Bhatt&lt;/a&gt;: Software Engineer&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://bhavesh.dev/&#34; target=&#34;_blank&#34;&gt;Bhavesh&lt;/a&gt;: Software Engineer @ Verkuda, Web Dev&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;All links work as of January 2025&lt;/p&gt;</description>
     </item>
   </channel>
