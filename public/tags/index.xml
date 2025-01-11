@@ -4,7 +4,8 @@
     <title>Tags on Nicholas Wade Website</title>
     <link>https://wade.dev/tags/</link>
     <description>Recent content in Tags on Nicholas Wade Website</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://wade.dev/tags/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="https://wade.dev/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

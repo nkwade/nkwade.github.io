@@ -4,16 +4,15 @@
     <title>Lists on Nicholas Wade Website</title>
     <link>https://wade.dev/lists/</link>
     <description>Recent content in Lists on Nicholas Wade Website</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://wade.dev/lists/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="https://wade.dev/lists/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
       <link>https://wade.dev/lists/lists/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://wade.dev/lists/lists/</guid>
       <description></description>
     </item>
-    
   </channel>
 </rss>
