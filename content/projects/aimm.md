@@ -20,7 +20,7 @@ You can see Trine Universities overview of the project here: [Artificial Intelli
     - CUDA 
 
 ## Pipeline
-![CV Pipeline](aimm_cv_pipeline.png)
+![CV Pipeline](/images/aimm_cv_pipeline.png)
 
 ## Results 
 We published a technical report about our process as part of the judging for the AIMM competition. You can view the document [here](https://docs.google.com/document/d/e/2PACX-1vTYsToDpUohFNKVdY4i7hteEkqEoGSFKjM2ApVTrtP4zEd6Y9sWk9BbXpVzlFmIGOf4SvqyG4mYLFIM/pub). Due to Purdue getting a late start on the competiton (and extremely bad weather) we weren't able to score as well as we wanted in the competition. Despite this, we were able to get a fully remote controlled boat and a working computer vision system that was able to detect buoys, and based off their distance from the camera, calculate their GPS coordinates for our navigation system to use. We also placed 3rd in the presentation section of the competition which was based off our report and on-site presentation given to the judges. 

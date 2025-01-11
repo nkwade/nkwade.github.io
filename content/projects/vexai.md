@@ -32,7 +32,7 @@ VEX Robotics is a yearly world-wide competition on levels ranging from middle sc
 
 ## Pipeline
 
-![VEXAI Pipeline](static/vex_pipeline.png "image pipeline")
+![VEXAI Pipeline](/images/vex_pipeline.png "image pipeline")
 
 ## Results
 
