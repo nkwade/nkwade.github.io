@@ -9,7 +9,7 @@ draft: false
 
   - Minor: [Entrepreneurship & Innovation](https://www.purdue.edu/entr/)  
   
-  - Labs: [AI Maritime Manuever Challenge]({{< ref "/projects/aimm" >}}) 
+  - Labs: [AI Maritime Manuever Challenge](/projects/aimm) 
 
   - Clubs: [Machine Learning @ Purdue](https://ml-purdue.github.io/), Previously [Sigbots](https://purduesigbots.com/)  
 
@@ -34,9 +34,9 @@ Project Categories Include:
 
 ## Projects
 - [GEDCOM2Wiki: Generate a Family Wiki from your family tree](/projects/gedcom2wiki)
-- [Celerity: Solana Blockchain Trading Bot]({{< ref "/projects/celerity" >}}) 
-- [Artificial Intelligence Maritime Manuever Inter-collegiate Challenge (AIMM ICC)]({{< ref "/projects/aimm" >}}) 
-- [VEX-AI: Creating an extensible framework for building AI in VEX Robotics]({{< ref "/projects/vexai" >}}) 
+- [Celerity: Solana Blockchain Trading Bot](/projects/celerity) 
+- [Artificial Intelligence Maritime Manuever Inter-collegiate Challenge (AIMM ICC)](/projects/aimm) 
+- [VEX-AI: Creating an extensible framework for building AI in VEX Robotics](/projects/vexai) 
 
 ## Coursework
 - Purdue CS Courses: 
