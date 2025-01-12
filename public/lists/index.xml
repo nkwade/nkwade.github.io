@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Lists on Nicholas Wade Website</title>
-    <link>http://localhost:45161/lists/</link>
+    <link>http://localhost:1313/lists/</link>
     <description>Recent content in Lists on Nicholas Wade Website</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="http://localhost:45161/lists/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/lists/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
-      <link>http://localhost:45161/lists/lists/</link>
+      <link>http://localhost:1313/lists/lists/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:45161/lists/lists/</guid>
+      <guid>http://localhost:1313/lists/lists/</guid>
       <description></description>
     </item>
   </channel>

@@ -2,51 +2,51 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:45161/projects/gedcom2wiki/</loc>
+    <loc>http://localhost:1313/projects/gedcom2wiki/</loc>
     <lastmod>2025-01-10T20:28:35-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:45161/</loc>
+    <loc>http://localhost:1313/</loc>
     <lastmod>2025-01-10T20:28:35-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:45161/projects/</loc>
+    <loc>http://localhost:1313/projects/</loc>
     <lastmod>2025-01-10T20:28:35-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:45161/photography/newhampshire/</loc>
+    <loc>http://localhost:1313/photography/newhampshire/</loc>
     <lastmod>2024-05-26T14:34:47-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:45161/photography/</loc>
+    <loc>http://localhost:1313/photography/</loc>
     <lastmod>2024-05-26T14:34:47-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:45161/photography/galapagos/</loc>
+    <loc>http://localhost:1313/photography/galapagos/</loc>
     <lastmod>2024-05-26T13:45:25-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:45161/photography/random/</loc>
+    <loc>http://localhost:1313/photography/random/</loc>
     <lastmod>2024-05-26T13:45:25-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:45161/projects/celerity/</loc>
+    <loc>http://localhost:1313/projects/celerity/</loc>
     <lastmod>2024-05-24T20:28:35-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:45161/about/</loc>
+    <loc>http://localhost:1313/about/</loc>
     <lastmod>2024-05-24T20:06:18-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:45161/about/about/</loc>
+    <loc>http://localhost:1313/about/about/</loc>
     <lastmod>2024-05-24T20:06:18-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:45161/about/friends/</loc>
+    <loc>http://localhost:1313/about/friends/</loc>
     <lastmod>2024-05-23T13:32:01-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:45161/projects/aimm/</loc>
+    <loc>http://localhost:1313/projects/aimm/</loc>
     <lastmod>2024-05-10T20:28:35-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:45161/projects/vexai/</loc>
+    <loc>http://localhost:1313/projects/vexai/</loc>
     <lastmod>2024-05-10T20:28:35-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:45161/lists/lists/</loc>
+    <loc>http://localhost:1313/lists/lists/</loc>
   </url><url>
-    <loc>http://localhost:45161/categories/</loc>
+    <loc>http://localhost:1313/categories/</loc>
   </url><url>
-    <loc>http://localhost:45161/lists/</loc>
+    <loc>http://localhost:1313/lists/</loc>
   </url><url>
-    <loc>http://localhost:45161/tags/</loc>
+    <loc>http://localhost:1313/tags/</loc>
   </url>
 </urlset>
