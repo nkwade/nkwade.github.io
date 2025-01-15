@@ -21,7 +21,7 @@ draft: false
 ### Incoming Software Engineer @ Capital One
 Excited to announce I'll be joining Capital One as a Technology Development Program Associate (Software Engineer). Looking forward to what the future holds as I leave college and enter the workforce!
 
-### Data Analyst @ BDO Digital  
+### Data & AI Intern @ BDO Digital  
 June 2023 - Dec 2024  
 Helped clients integrate artificial intelligence into their business.
 Project Categories Include:  
@@ -31,6 +31,8 @@ Project Categories Include:
 - Manufacturing Automation
 - Data warehousing & integration
 - Various AI/ML demos in all areas for clients and internal projects
+
+Provided me with a great introduction to software engineering as a profession and worked with a great group of people!
 
 ## Projects
 - [GEDCOM2Wiki: Generate a Family Wiki from your family tree](/projects/gedcom2wiki)
