@@ -2,7 +2,7 @@ baseURL = 'https://wade.dev/'
 languageCode = 'en-us'
 title = 'Nicholas Wade Website'
 theme = "poison"
-paginate=10
+pagination.pagerSize = 10
 pluralizelisttitles = false
 
 [params]
