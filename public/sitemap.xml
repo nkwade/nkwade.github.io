@@ -2,51 +2,51 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/projects/gedcom2wiki/</loc>
+    <loc>https://wade.dev/about/</loc>
+    <lastmod>2025-06-16T20:06:18-04:00</lastmod>
+  </url><url>
+    <loc>https://wade.dev/about/about/</loc>
+    <lastmod>2025-06-16T20:06:18-04:00</lastmod>
+  </url><url>
+    <loc>https://wade.dev/</loc>
+    <lastmod>2025-06-16T20:06:18-04:00</lastmod>
+  </url><url>
+    <loc>https://wade.dev/projects/gedcom2wiki/</loc>
     <lastmod>2025-01-10T20:28:35-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://wade.dev/projects/</loc>
     <lastmod>2025-01-10T20:28:35-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/projects/</loc>
-    <lastmod>2025-01-10T20:28:35-04:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/photography/newhampshire/</loc>
+    <loc>https://wade.dev/photography/newhampshire/</loc>
     <lastmod>2024-05-26T14:34:47-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/photography/</loc>
+    <loc>https://wade.dev/photography/</loc>
     <lastmod>2024-05-26T14:34:47-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/photography/galapagos/</loc>
+    <loc>https://wade.dev/photography/galapagos/</loc>
     <lastmod>2024-05-26T13:45:25-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/photography/random/</loc>
+    <loc>https://wade.dev/photography/random/</loc>
     <lastmod>2024-05-26T13:45:25-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/projects/celerity/</loc>
+    <loc>https://wade.dev/projects/celerity/</loc>
     <lastmod>2024-05-24T20:28:35-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/about/</loc>
-    <lastmod>2024-05-24T20:06:18-04:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/about/about/</loc>
-    <lastmod>2024-05-24T20:06:18-04:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/about/friends/</loc>
+    <loc>https://wade.dev/about/friends/</loc>
     <lastmod>2024-05-23T13:32:01-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/projects/aimm/</loc>
+    <loc>https://wade.dev/projects/aimm/</loc>
     <lastmod>2024-05-10T20:28:35-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/projects/vexai/</loc>
+    <loc>https://wade.dev/projects/vexai/</loc>
     <lastmod>2024-05-10T20:28:35-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/lists/lists/</loc>
+    <loc>https://wade.dev/lists/lists/</loc>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://wade.dev/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/lists/</loc>
+    <loc>https://wade.dev/lists/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://wade.dev/tags/</loc>
   </url>
 </urlset>

@@ -13,7 +13,7 @@ pluralizelisttitles = false
   menu = [
     {Name = "About Me", URL = "/about/", HasChildren = true, Limit=2},
     {Name = "Resume", URL = "/documents/Nicholas Wade Resume.pdf", External = true},
-    {Name = "Projects", URL = "/projects/", HasChildren = true, Limit=3},
+    {Name = "Projects", URL = "/projects/", HasChildren = true, Limit=4},
     {Name = "Photography", URL = "/photography/", HasChildren = true, Limit=3},
     {Name = "Misc", URL = "", HasChildren = true, Limit = 2},
     #{Name = "Reading List", URL = "https://nkwade.notion.site/Reading-List-0bb176adccd34b1c880de7e2516b8014/", External = true},
@@ -25,6 +25,6 @@ pluralizelisttitles = false
     email_url = "mailto://nicholas@wade.dev"
     github_url = "https://github.com/nkwade"
     linkedin_url = "https://linkedin.com/in/nkwade/"
-    #twitter_url = "https://twitter.com/nkwade"
+    twitter_url = "https://twitter.com/nicholas_k_wade"
     youtube_url = "https://youtube.com/@nkwade"
     medium_url = "medium.wade.dev"
