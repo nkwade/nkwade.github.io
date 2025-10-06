@@ -4,12 +4,12 @@ date: 2025-06-16T20:06:18-04:00
 draft: false
 ---
 
-Embodied AI developer from rural New Hampshire currently living in Houston Texas living out my dream of building robots. Went from graduating high school with 30 students to graduating college with >10k students from Purdue University. 
+Embodied AI developer from rural New Hampshire currently living in Houston Texas living out my dream of building humanoid robots! NH -> IN -> TX
 
-**Interests:** Embodied AI, UFC/MMA, 3D Model Generators, American Football, Autonomous Vehicles, Golf, & Video Games. 
+**Interests:** Embodied AI, UFC/MMA, American Football, Teleoperation, Robotic Hands, Golf, & Travelling. 
 
 **Previously:** 
-- ML Lead @ Purdue AIMM Lab creating an autonomous boat
+- ML/SWE Lead @ Purdue AIMM Lab creating an autonomous boat
 - Data & AI @ BDO Digital building ML & data driven solutions for clients,
 - Project Lead @ Maching Learning Purdue.
 
@@ -19,10 +19,10 @@ Embodied AI developer from rural New Hampshire currently living in Houston Texas
 <!-- ### Incoming Software Engineer @ [Capital One](https://www.capitalone.com/) (Aug 25-)
 Excited to announce I'll be joining Capital One as a Technology Development Program Associate (Software Engineer) in August 2025 -->
 
-## Post-Grad Robotics Intern @ [Persona AI](https://personainc.ai/) 
-Houston, TX | May 25 - Aug 25
+## Robotics SWE @ [Persona AI](https://personainc.ai/) 
+Houston, TX | May 25 - Present
 
-Grateful to join an early stage (pre-seed ~30 people) startup working on building humanoid robots for heavy industries. So far my focus has been on integrating hardware through SDKs into the teleoperation & manipulation stack along with hardware abstraction to speed up development timelines for ML infrastructure. I plan on working on locomotion via RL and whole-body teleoperation. Please reach me at nicholas@wade.dev if you are interested in joining or just want to talk about robotics!
+Grateful to join an early stage (pre-seed ~30 people) startup working on building humanoid robots for heavy industries. So far my focus has been on integrating hardware through SDKs into the teleoperation & manipulation stack along with hardware abstraction to speed up development timelines for infrastructure. Working at a startup I have been completing tasks across all our teams and helping wherever needed! Please reach me at nicholas.wade@personainc.ai if you are interested in joining or just want to talk about robotics!
 
 ## B.S Computer Science @ Purdue University
 West Lafayette, IN | Aug 21 - May 25
